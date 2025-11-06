@@ -122,7 +122,7 @@ This project demonstrates a hands-on understanding of endpoint monitoring and th
 
 ## 💼 Author
 
-**Chinnu**\
+**SASI**\
 Offensive Security Learner | Building skills in real-world SOC setups\
-GitHub: [your-repo-link]
+
 
